@@ -1,0 +1,22 @@
+{
+  "functions": {
+    "pages/**/*": {
+      "maxDuration": 25
+    }
+  },
+  "trailingSlash": false,
+  "redirects": [
+      { "source": "/commercial/bulloch-first-bank", "destination": "/projects/bulloch-first" },
+      { "source": "/commercial/durden-bank", "destination": "/projects/durden-bank" },
+      { "source": "/commercial/savannah-botanical-garden", "destination": "/projects/savannah-botanical-gardens" },
+      { "source": "/commercial/the-village-square", "destination": "/projects/the-village" },
+      { "source": "/residential/cedar-shake-shingles", "destination": "/residential/cedar-shake-roofing" },
+      { "source": "/residential/the-price-home", "destination": "/projects/the-price-home" },
+      { "source": "/commercial/claxton-city-hall", "destination": "/projects/claxton-city-hall" },
+      { "source": "/commercial/bulloch-county-airport", "destination": "/projects/bulloch-county-airport" },
+      { "source": "/residential/the-willbanks-home", "destination": "/projects/the-willbanks-home" },
+      { "source": "/residential/the-hook-home", "destination": "/" },
+      { "source": "/residential/the-harrison-home", "destination": "/projects/the-harrison-home" },
+      { "source": "/services/residential", "destination": "/residential" }
+  ]
+}

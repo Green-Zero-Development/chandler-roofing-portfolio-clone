@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.chandler-roofing.com
+
+# Sitemaps
+Sitemap: https://www.chandler-roofing.com/sitemap.xml
